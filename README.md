@@ -2,6 +2,7 @@
 
 ## [Optimising Student Retention & Educational Outcomes (Predictive Analytics)](https://github.com/EmilyDataStory/learning-analytics)  
 This project develops a predictive model to identify at-risk students early in their courses using demographic, engagement, and assessment data from the Open University. By applying advanced analytics and clustering, it empowers educators to provide timely, tailored interventions, improving student retention and educational outcomes. [Follow link for more details](https://github.com/EmilyDataStory/learning-analytics).
+
 <img src="https://github.com/user-attachments/assets/1be918cb-1901-456b-b6a0-5236e9a54cba" alt="image" width="500"/>
 
 
