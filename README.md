@@ -1,10 +1,14 @@
 # My Projects
 
+## [Optimising Student Retention & Educational Outcomes (Predictive Analytics)](https://github.com/EmilyDataStory/learning-analytics)  
+This project develops a predictive model to identify at-risk students early in their courses using demographic, engagement, and assessment data from the Open University. By applying advanced analytics and clustering, it empowers educators to provide timely, tailored interventions, improving student retention and educational outcomes. [Follow link for more details](https://github.com/EmilyDataStory/learning-analytics).
+<img src="https://github.com/user-attachments/assets/1be918cb-1901-456b-b6a0-5236e9a54cba" alt="image" width="500"/>
+
+
 ## [Predicting Rental Prices (Regression Models)](https://github.com/EmilyDataStory/airbnb-mel-price)
 This project builds a predictive model for Airbnb prices in Melbourne, using property, host, and location data to identify key factors associated with rental pricing. By leveraging advanced machine learning techniques, it provides actionable insights for hosts and investors to optimise pricing strategies for sustainable income. [Read more](https://github.com/EmilyDataStory/airbnb-mel-price).
 
 <img src="https://github.com/user-attachments/assets/977d11a0-1d64-4a8d-937e-0389996317d6" alt="image" width="700"/>
-
 
 
 ## [Diabetes Risk Prediction (Classification Models)](https://github.com/EmilyDataStory/diabetes-risk-prediction):
