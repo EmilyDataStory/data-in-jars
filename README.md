@@ -12,7 +12,7 @@ Explore how machine learning can be leveraged to predict diabetes risk using non
 This project not only tackles a critical public health issue but also demonstrates transferable data science skills such as data preprocessing, model optimisation, and insightful visualisation that are valuable across various industries.
 Click the project title or this [link](https://github.com/EmilyDataStory/diabetes-risk-prediction) to find out more.
 
-<img src="https://github.com/user-attachments/assets/b3becaa3-dca2-4981-8de8-784fb42dca1e" alt="image" width="700"/>
+<img src="https://github.com/user-attachments/assets/b3becaa3-dca2-4981-8de8-784fb42dca1e" alt="image" width="500"/>
 
 
 ## [Employee Attrition Analysis (EDA)](https://github.com/EmilyDataStory/employee-attrition-eda):
