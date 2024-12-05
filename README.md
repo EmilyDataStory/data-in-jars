@@ -28,5 +28,5 @@ Check out the detailed EDA notebook in this GitHub [repository](https://github.c
 <img src="https://github.com/user-attachments/assets/f744a54e-21f6-4119-8c46-9e6a6e322ed8" alt="image" width="700"/>
 
 
-
+[View my Tableau Dashboard](https://EmilyHStories.github.io/data-in-jars/index.html)
 
